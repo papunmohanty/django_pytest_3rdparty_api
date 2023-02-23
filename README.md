@@ -1,0 +1,1 @@
+# django_pytest_3rdparty_api
